@@ -11,12 +11,26 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\nAn Image of me at the Train\n\n\nHello! I am a dedicated UMass student pursuing a BS in Biology and a Spanish minor, with experience in research and retail who is looking to work in the field of healthcare and research. I have worked in oncology and am interested in continuing a career in that field."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "x"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   }

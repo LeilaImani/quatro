@@ -9,9 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - projects.qmd
-      - labs.qmd
-      - presentations.qmd
 
 format:
   html:
@@ -20,3 +17,4 @@ format:
     toc: true
 
 editor: visual
+
